@@ -60,18 +60,6 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 
 Replace the placeholders with your own credentials.
 
-Learn More
-
-To learn more about the technologies used in this project:
-
-Next.js Documentation
- - learn about Next.js features and API
-
-React Documentation
- - for building UI components
-
-Stripe API
- - for secure payment integration
 
 Deploy on Vercel
 
@@ -86,5 +74,4 @@ Add your environment variables in the Vercel dashboard.
 
 Deploy! Your app will be live at your-project-name.vercel.app.
 
-Check out the Next.js deployment documentation
- for more details.
+
