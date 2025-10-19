@@ -61,17 +61,11 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 Replace the placeholders with your own credentials.
 
 
-Deploy on Vercel
+## Deploy on Vercel
 
-The easiest way to deploy your Online Art Marketplace is using the Vercel platform, the creators of Next.js.
-
-Fork or clone the repo.
-
-Connect the repo to Vercel
-.
-
-Add your environment variables in the Vercel dashboard.
-
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com) from the creators of Next.js.
 Deploy! Your app will be live at your-project-name.vercel.app.
+
+
 
 
