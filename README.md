@@ -30,8 +30,10 @@ npm install
 yarn install
 # or
 pnpm install
+```
 
-Run the Development Server
+### Run the Development Server
+```bash
 npm run dev
 # or
 yarn dev
@@ -39,7 +41,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-
+```
 
 Open http://localhost:3000
  in your browser to see the app in action.
@@ -49,12 +51,12 @@ You can start editing the pages and components inside the app and components dir
 Environment Variables
 
 Create a .env file in the root directory and add the following variables:
-
+```.env
 DATABASE_URL=your_database_connection_string
 NEXTAUTH_URL=http://localhost:3000
 NEXTAUTH_SECRET=your_nextauth_secret
 STRIPE_SECRET_KEY=your_stripe_secret_key
-
+```
 
 Replace the placeholders with your own credentials.
 
